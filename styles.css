@@ -1,0 +1,34 @@
+body{background-color:#41B05E; }
+
+h1{background-color:#00EDAA; 
+	margin-left: 100px;
+	margin-right: 100px; 
+	text-align: center;
+	font-family: Georgia;
+	font-size: 45px;
+	padding-bottom: 15px;
+	padding-top: 15px;}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color:#00EDAA; 
+	display: flex;
+	justify-content: center;
+}
+
+ul li a {
+	display: block;
+	color: #691E41;
+	padding: 25px 20px;
+	text-decoration: none;
+	font-family: Georgia;
+	font-size: 24px;
+}
+
+a:hover{
+	background-color: white;
+	font-size: 32px;
+}
+
